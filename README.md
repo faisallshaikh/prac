@@ -1,1 +1,1 @@
-This is a Python practise
+This is Python practise
